@@ -1,5 +1,5 @@
 ### Hi Siri 👋
-## 🌐 [My blog welcome to ...](https://blog.boyhack.com/)
+## 🌐 [My blog welcome to ...](https://boyhack.com/)
 <!--
 **crackzj/crackzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
