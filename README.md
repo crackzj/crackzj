@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 职业是一个前端仔
+- 🌱 会`vue/vue3`多一些
+- 👯 好像`golang`也还行
+- 🤔 应该学习一下`react`和`rust`
 
+  
 ![crackzj's github stats](https://github-readme-stats.vercel.app/api?username=crackzj&show_icons=true)
